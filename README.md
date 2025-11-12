@@ -13,7 +13,6 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 Currently working on: **[Lottery Delivery System](https://www.lottog.shop/)**
 - 💬 Ask me about: **React, Next.js, Node.js, MongoDB, Express, C, C++**
 - 📫 Reach me at: **divyakumar768800@gmail.com**
 
